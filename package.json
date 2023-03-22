@@ -1,0 +1,10 @@
+{
+  "scripts": {
+    "test": "mocha testing/testing.js"
+  },
+  "dependencies": {
+    "chai": "^4.3.7",
+    "chalk": "^5.2.0",
+    "mocha": "^10.2.0"
+  }
+}
